@@ -1,0 +1,8 @@
+.*
+!.circleci
+!.coveragerc
+!.dockerignore
+!.gitignore
+*~
+*.pyc
+*\.egg*
